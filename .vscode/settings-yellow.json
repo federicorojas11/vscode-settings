@@ -1,0 +1,20 @@
+{
+  /* docs: https://code.visualstudio.com/api/references/theme-color */
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#868600",
+    "activityBar.activeFocusBorder": "#e4d908",
+    "activityBar.activeBorder": "#e4d908",
+    "activityBar.background": "#40371f",
+    "sideBar.background": "#1a1c06",
+    "editor.background": "#1f1f1f",
+    "editorGroupHeader.tabsBackground": "#4f4b05",
+    "tab.inactiveBackground": "#38300d",
+    "tab.activeBackground": "#4f4b05",
+    "tab.hoverBackground": "#3c390b",
+    "tab.hoverBorder": "#3c390b",
+    "tab.activeBorder": "#9c9428",
+    "tab.activeBorderTop": "#3c390b",
+    "tab.border": "#464110",
+    "tab.unfocusedHoverBorder": "#a0a0a0"
+  }
+}

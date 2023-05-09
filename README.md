@@ -1,6 +1,6 @@
 ## vscode configs of colors
 
-### List of diferent background and colors combinations to difference easily the workspaces windows between diferent vscode projects.
+### List of diferent background and colors combinations examples to difference easily identify vscode window.
 
 # How to use?
 
